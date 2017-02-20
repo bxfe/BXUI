@@ -1,0 +1,22 @@
+{
+  "name": "bxui",
+  "version": "1.0.0",
+  "description": "bxui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bxfe/BXUI.git"
+  },
+  "author": "liyiting@baixing.com,sunxiaoyuan@baixing.com,yangpan@baixing.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bxfe/BXUI/issues"
+  },
+  "homepage": "https://github.com/bxfe/BXUI#readme",
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  }
+}
